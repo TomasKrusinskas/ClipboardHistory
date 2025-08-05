@@ -146,11 +146,4 @@ Clipboard-History-Manager/
 - Application requires system tray support
 - Clipboard monitoring works on all supported platforms
 - Data is saved in user's application data directory
-
-## License
-
 This project is provided as-is for educational and personal use.
-
-## Contributing
-
-Feel free to submit issues, feature requests, or pull requests to improve the application. 
