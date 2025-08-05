@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Clipboard-History-Manager/">
+    <file alias="Main.qml">C:/Users/Tomas/Desktop/KTU/Clipboard-History-Manager/Main.qml</file>
+  </qresource>
+</RCC>
+

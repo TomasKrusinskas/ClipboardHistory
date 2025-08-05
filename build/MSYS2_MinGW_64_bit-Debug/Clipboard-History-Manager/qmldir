@@ -1,0 +1,5 @@
+module Clipboard-History-Manager
+typeinfo appClipboard-History-Manager.qmltypes
+prefer :/qt/qml/Clipboard-History-Manager/
+Main 1.0 Main.qml
+

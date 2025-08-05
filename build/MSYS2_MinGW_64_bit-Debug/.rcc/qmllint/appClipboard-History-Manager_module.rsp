@@ -1,0 +1,10 @@
+-I
+C:/Users/Tomas/Desktop/KTU/Clipboard-History-Manager/build/MSYS2_MinGW_64_bit-Debug
+-I
+C:/msys64/mingw64/share/qt6/qml
+--resource
+C:/Users/Tomas/Desktop/KTU/Clipboard-History-Manager/build/MSYS2_MinGW_64_bit-Debug/.qt/rcc/qmake_Clipboard-History-Manager.qrc
+--resource
+C:/Users/Tomas/Desktop/KTU/Clipboard-History-Manager/build/MSYS2_MinGW_64_bit-Debug/.qt/rcc/appClipboard-History-Manager_raw_qml_0.qrc
+--module
+Clipboard-History-Manager

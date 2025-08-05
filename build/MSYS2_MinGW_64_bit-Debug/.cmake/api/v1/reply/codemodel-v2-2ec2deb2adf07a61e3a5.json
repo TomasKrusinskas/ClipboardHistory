@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b6575dd74539932681e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Clipboard-History-Manager",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-2be4321a737f3113b107.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-bca8f37469fe9340ad7c.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-3dffd3dd5a0b00bf1e24.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-31dba087b93c9b35270f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d35500da6ddd9caeac8f.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClipboard-History-Manager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClipboard-History-Manager-Debug-ba9200a14da90de772d6.json",
+					"name" : "appClipboard-History-Manager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClipboard-History-Manager_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClipboard-History-Manager_autogen-Debug-d1a83e7896ddfd1d2a6f.json",
+					"name" : "appClipboard-History-Manager_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClipboard-History-Manager_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClipboard-History-Manager_autogen_timestamp_deps-Debug-5195cedbd000678bc788.json",
+					"name" : "appClipboard-History-Manager_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClipboard-History-Manager_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClipboard-History-Manager_copy_qml-Debug-34e7162c5b9671b8c9bb.json",
+					"name" : "appClipboard-History-Manager_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClipboard-History-Manager_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClipboard-History-Manager_copy_res-Debug-7ee41688842e080c44e0.json",
+					"name" : "appClipboard-History-Manager_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClipboard-History-Manager_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClipboard-History-Manager_qmlimportscan-Debug-324f8dfa8b5fb6dcfdcd.json",
+					"name" : "appClipboard-History-Manager_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClipboard-History-Manager_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClipboard-History-Manager_qmllint-Debug-33c77fc594c4494afebb.json",
+					"name" : "appClipboard-History-Manager_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClipboard-History-Manager_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClipboard-History-Manager_qmllint_json-Debug-b8012af46488060ba0bf.json",
+					"name" : "appClipboard-History-Manager_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClipboard-History-Manager_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClipboard-History-Manager_qmllint_module-Debug-f511595b5aea71b954e2.json",
+					"name" : "appClipboard-History-Manager_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClipboard-History-Manager_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClipboard-History-Manager_qmltyperegistration-Debug-5df78aeceffd040e7fd7.json",
+					"name" : "appClipboard-History-Manager_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appClipboard-History-Manager_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appClipboard-History-Manager_aotstats_target-Debug-fc49b9f4423a328fc12f.json",
+					"name" : "module_appClipboard-History-Manager_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Tomas/Desktop/KTU/Clipboard-History-Manager/build/MSYS2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Tomas/Desktop/KTU/Clipboard-History-Manager"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

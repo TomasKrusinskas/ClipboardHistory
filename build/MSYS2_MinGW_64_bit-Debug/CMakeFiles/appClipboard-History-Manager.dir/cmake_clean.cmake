@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appClipboard-History-Manager_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Clipboard-History-Manager.cpp"
+  ".rcc/qmlcache/appClipboard-History-Manager_Main_qml.cpp"
+  ".rcc/qmlcache/appClipboard-History-Manager_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appClipboard-History-Manager_qmlcache_loader.cpp"
+  "CMakeFiles/appClipboard-History-Manager_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appClipboard-History-Manager_autogen.dir/ParseCache.txt"
+  "appClipboard-History-Manager_autogen"
+  "CMakeFiles/appClipboard-History-Manager.dir/appClipboard-History-Manager_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appClipboard-History-Manager.dir/appClipboard-History-Manager_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appClipboard-History-Manager.dir/appclipboard-history-manager_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appClipboard-History-Manager.dir/appclipboard-history-manager_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appClipboard-History-Manager.dir/build/MSYS2_MinGW_64_bit-Debug/.qt/rcc/qrc_appClipboard-History-Manager_raw_qml_0.cpp.obj"
+  "CMakeFiles/appClipboard-History-Manager.dir/build/MSYS2_MinGW_64_bit-Debug/.qt/rcc/qrc_appClipboard-History-Manager_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appClipboard-History-Manager.dir/build/MSYS2_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Clipboard-History-Manager.cpp.obj"
+  "CMakeFiles/appClipboard-History-Manager.dir/build/MSYS2_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Clipboard-History-Manager.cpp.obj.d"
+  "CMakeFiles/appClipboard-History-Manager.dir/build/MSYS2_MinGW_64_bit-Debug/.rcc/qmlcache/appClipboard-History-Manager_Main_qml.cpp.obj"
+  "CMakeFiles/appClipboard-History-Manager.dir/build/MSYS2_MinGW_64_bit-Debug/.rcc/qmlcache/appClipboard-History-Manager_Main_qml.cpp.obj.d"
+  "CMakeFiles/appClipboard-History-Manager.dir/build/MSYS2_MinGW_64_bit-Debug/.rcc/qmlcache/appClipboard-History-Manager_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appClipboard-History-Manager.dir/build/MSYS2_MinGW_64_bit-Debug/.rcc/qmlcache/appClipboard-History-Manager_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appClipboard-History-Manager.dir/main.cpp.obj"
+  "CMakeFiles/appClipboard-History-Manager.dir/main.cpp.obj.d"
+  "CMakeFiles/appClipboard-History-Manager.dir/src/ClipboardManager.cpp.obj"
+  "CMakeFiles/appClipboard-History-Manager.dir/src/ClipboardManager.cpp.obj.d"
+  "Clipboard-History-Manager/appClipboard-History-Manager.qmltypes"
+  "appClipboard-History-Manager.exe"
+  "appClipboard-History-Manager.exe.manifest"
+  "appClipboard-History-Manager.pdb"
+  "appClipboard-History-Manager_autogen/mocs_compilation.cpp"
+  "appClipboard-History-Manager_autogen/timestamp"
+  "appclipboard-history-manager_qmltyperegistrations.cpp"
+  "libappClipboard-History-Manager.dll.a"
+  "meta_types/appClipboard-History-Manager_json_file_list.txt"
+  "meta_types/appClipboard-History-Manager_json_file_list.txt.timestamp"
+  "meta_types/qt6appclipboard-history-manager_debug_metatypes.json"
+  "meta_types/qt6appclipboard-history-manager_debug_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appClipboard-History-Manager.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
