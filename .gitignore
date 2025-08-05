@@ -1,4 +1,4 @@
-echo "# Build directories
+# Build directories
 build/
 debug/
 release/
