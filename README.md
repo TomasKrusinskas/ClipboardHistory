@@ -1,6 +1,6 @@
 # Clipboard History Manager
 
-A Qt Quick application that keeps track of your clipboard history and allows you to easily access and manage copied items.
+A Qt Quick application that keeps track of clipboard history and allows you to easily access and manage copied items.
 
 ## Features
 
@@ -57,9 +57,9 @@ A Qt Quick application that keeps track of your clipboard history and allows you
 - Use the spin box to adjust maximum history size (10-200 items)
 
 ### Actions
-- **📋 Copy Button**: Click to copy item to clipboard
-- **📍 Pin Button**: Click to pin/unpin an item (pinned items stay at top)
-- **🗑️ Delete Button**: Remove individual items from history
+- ** Copy Button**: Click to copy item to clipboard
+- ** Pin Button**: Click to pin/unpin an item (pinned items stay at top)
+- ** Delete Button**: Remove individual items from history
 - **Clear All**: Remove all items from history (with confirmation)
 
 ### System Tray
@@ -83,7 +83,7 @@ A Qt Quick application that keeps track of your clipboard history and allows you
 - Pinned items appear in a separate section at the top
 - Pinned items have a different background color (orange)
 - Pinned items persist even when history is cleared
-- Use the pin button (📍) to pin/unpin items
+- Use the pin button to pin/unpin items
 
 ### History Management
 - Configurable maximum history size (10-200 items)
